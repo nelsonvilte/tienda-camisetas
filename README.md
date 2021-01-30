@@ -1,4 +1,4 @@
-# app web básica: Tienda de camisetas
+# Sitio web básico: Tienda de camisetas
 Desarrollo de una tienda de camisetas como proyecto web básico en NodeJS del Curso online Node.js práctico: Sitio web.
 - Instalación y configuración de rutas con Express.
 - Instalación, sintaxis, datos dinámicos y arreglos con Pug.
