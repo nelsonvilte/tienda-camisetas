@@ -6,8 +6,8 @@ Desarrollo de una tienda de camisetas como proyecto web básico en NodeJS del Cu
 - Creación de páginas de error con Node.js
 
 # Módulos Node
- Ejecute npm install dentro de la carpeta del proyecto, para instalar los paquetes o modulos de node requeridos para poder ejecutar la aplicación.
+ Ejecute **npm install** dentro de la carpeta del proyecto, para instalar los paquetes o modulos de node requeridos para poder ejecutar la aplicación.
 
 # Servidor de Desarrollo
- Ejecute nodemon app.js para iniciar el servidor web. Navegue a http://localhost:3000/
+ Ejecute **nodemon app.js** para iniciar el servidor web. Navegue a http://localhost:3000/
 
