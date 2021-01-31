@@ -5,7 +5,7 @@ app.use (express.static(__dirname + '/public') );
 
 
 camisetasLista = [
-    {color:"Naranja" ,  imagen:"/images/camiseta1.png"},
+    {color:"Negra" ,  imagen:"/images/camiseta1.png"},
     {color:"Roja" ,  imagen:"/images/camiseta2.png"},
     {color:"Azul" ,  imagen:"/images/camiseta3.png"},
     {color:"Verde" ,  imagen:"/images/camiseta4.png"}
